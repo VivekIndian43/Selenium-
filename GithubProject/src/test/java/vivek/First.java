@@ -7,7 +7,7 @@ public class First {
 	@Test
 	public void pull()
 	{
-		Reporter.log("Pull request is Sucessfully");
+		Reporter.log("Pull request is Sucessfully",true);
 	}
 
 }
